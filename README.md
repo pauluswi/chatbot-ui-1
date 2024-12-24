@@ -7,15 +7,7 @@ The open-source AI chat app for everyone.
 
 Follow these steps to get your own Chatbot UI instance running locally.
 
-You can watch the full video tutorial [here](https://www.youtube.com/watch?v=9Qq3-7-HNgw).
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/mckaywrigley/chatbot-ui.git
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 Open a terminal in the root directory of your local Chatbot UI repository and run:
 
@@ -23,7 +15,7 @@ Open a terminal in the root directory of your local Chatbot UI repository and ru
 npm install
 ```
 
-### 3. Install Supabase & Run Locally
+### 2. Install Supabase & Run Locally
 
 #### Why Supabase?
 
