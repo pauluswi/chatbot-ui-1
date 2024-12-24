@@ -2,21 +2,6 @@
 
 The open-source AI chat app for everyone.
 
-## Updating
-
-In your terminal at the root of your local Chatbot UI repository, run:
-
-```bash
-npm run update
-```
-
-If you run a hosted instance you'll also need to run:
-
-```bash
-npm run db-push
-```
-
-to apply the latest migrations to your live database.
 
 ## Local Quickstart
 
@@ -125,6 +110,23 @@ npm run chat
 Your local instance of Chatbot UI should now be running at [http://localhost:3000](http://localhost:3000). Be sure to use a compatible node version (i.e. v18).
 
 You can view your backend GUI at [http://localhost:54323/project/default/editor](http://localhost:54323/project/default/editor).
+
+## Updating
+
+In your terminal at the root of your local Chatbot UI repository, run:
+
+```bash
+npm run update
+```
+
+If you run a hosted instance you'll also need to run:
+
+```bash
+npm run db-push
+```
+
+to apply the latest migrations to your live database.
+
 
 ## Hosted Quickstart
 
